@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Northwest {
+public class Northwest { 
     public static void main(String[] args) {
        
          
@@ -71,3 +71,4 @@ public class Northwest {
     }
 }
     
+
