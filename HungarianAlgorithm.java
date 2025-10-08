@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class HungarianAlgorithm {
     static final int INF = Integer.MAX_VALUE;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         // Cost matrix (agents x tasks)
         int[][] costMatrix = {
             {4, 2, 8},
@@ -82,3 +82,4 @@ public class HungarianAlgorithm {
         return result;
     }
 }
+
